@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Najmus</h1>
 <h3 align="center">
-  🎓 CSE Graduate | 📱 Flutter Developer in Training | 🤖 LLM Engineering Enthusiast from Bangladesh
+  🎓 CSE Graduate | 📱 Flutter Developer in Training | 🤖 LLM Engineering Enthusiast
 </h3>
 
 <p align="center">
