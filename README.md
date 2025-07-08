@@ -27,6 +27,6 @@
 ---
 
 ### 📫 How to reach me:
-- 💌 Email: your_email@gmail.com
+- 💌 Email: najmus.chy.12@gmail.com.com
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
