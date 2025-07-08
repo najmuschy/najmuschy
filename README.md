@@ -40,4 +40,4 @@
 
 ### 📫 How to reach me:
 - 💌 Email: najmuschy.12@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/najmuschy](https://www.linkedin.com/in/najmus-chowdhury)
+- 💼 LinkedIn: [linkedin.com/in/najmuschy](https://www.linkedin.com/in/najmus-chowdhury-482a79192/?trk=opento_sprofile_details)
