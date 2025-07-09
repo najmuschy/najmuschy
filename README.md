@@ -65,7 +65,7 @@ I’m from Bangladesh 🇧🇩 and love building cool stuff, learning, and growi
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=najmuschy&show_icons=true&theme=radical" alt="Najmus GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmuschy&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmuschy&layout=compact&theme=radical" />
 </p>
 
 ---
