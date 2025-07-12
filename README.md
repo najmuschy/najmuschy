@@ -20,7 +20,7 @@ I'm driven by curiosity and creativity, and I enjoy building things that make li
 - ☁️ Use Firebase to build real-time and scalable apps  
 - 🤖 Learn and experiment with LLMs (OpenAI, HuggingFace, Ollama)  
 - 🧠 Explore AI/NLP workflows like prompt engineering, fine-tuning, and retrieval-based chatbots  
-- 🛠️ Code with clarity and structure using Riverpod, REST APIs, and clean architecture  
+ 
 
 ---
 
