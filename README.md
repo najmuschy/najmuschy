@@ -3,9 +3,6 @@
   🎓 CSE Graduate | 📱 Flutter Developer in Training | 🤖 LLM Engineering Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=najmuschy&label=Profile%20views&color=0e75b6&style=flat" alt="najmuschy" />
-</p>
 
 ---
 
