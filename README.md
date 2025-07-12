@@ -31,7 +31,7 @@ Whether you're building a startup, want a mobile app for your idea, or need help
 I’m from Bangladesh 🇧🇩 and love building cool stuff, learning, and growing with the developer community.
 
 - 🔄 I'm currently improving my Flutter app architecture & state management  
-- 💬 I like to write, teach, and experiment with AI tools in my free time
+- 💬 I like to experiment with AI tools in my free time
 
 ---
 
