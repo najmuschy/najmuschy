@@ -64,7 +64,7 @@ I'm from Bangladesh 🇧🇩 and love building cool stuff, learning, and growing
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-najmuschy.12@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najmuschy.12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Najmus%20Chowdhury-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najmus-chowdhury-482a79192)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Najmus%20Chowdhury-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najmuschy)
 
 </div>
 
