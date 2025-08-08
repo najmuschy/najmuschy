@@ -56,7 +56,7 @@ I'm from Bangladesh 🇧🇩 and love building cool stuff, learning, and growing
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmuschy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=najmuschy&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="Najmus GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=najmuschy&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="Najmus GitHub Streak" />
 </div>
 ---
 ## 📫 How to reach me:
